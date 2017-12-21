@@ -28,7 +28,7 @@ In this Application, the number to be guessed is set by the System. And based on
 
 ## Watch the Video Walkthrough
 
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+[![Watch the video]
 
 ## ScreenShots
 
