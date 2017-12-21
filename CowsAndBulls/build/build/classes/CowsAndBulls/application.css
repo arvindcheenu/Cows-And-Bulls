@@ -1,0 +1,14 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+@font-face {
+src: url("CREABBB.TTF");
+}
+#statusText, #try1, #try2, #try3, #try4,
+#try5, #try6, #try7, #try8, #try9 
+{
+-fx-font-family: "CreativeBlock BB Bold";
+-fx-font-size  : 30px;	
+}
+.serial
+{
+-fx-font-family: "CreativeBlock BB Bold";	
+}
