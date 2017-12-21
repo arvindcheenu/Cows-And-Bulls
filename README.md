@@ -3,7 +3,9 @@
 # Cows And Bulls
 
 A JavaFx 8 Application that simulates the pen and paper game "Bulls and Cows" as a Desktop JavaFX application.
-
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/arvindcheenu/Cows-And-Bulls/master/spotlight.png">
+</p>
 This application is built completely with Java with the UI View Built with JavaFx 8, the current mainstream standardisation for User interface design in Java. 
 
 ## Rules of the Game
@@ -24,4 +26,46 @@ In this Application, the number to be guessed is set by the System. And based on
 
 > <img src="https://raw.githubusercontent.com/arvindcheenu/Cows-And-Bulls/master/CowsAndBulls/src/CowsAndBulls/img/cow.png" height="30"> Represents the equivalent **face values** while, <img src="https://raw.githubusercontent.com/arvindcheenu/Cows-And-Bulls/master/CowsAndBulls/src/CowsAndBulls/img/ox.png" height="30"> represents the equivalent **place values**.
 
+## Watch the Video Walkthrough
+
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+
 ## ScreenShots
+
+<p> 
+<img src="https://raw.githubusercontent.com/arvindcheenu/Cows-And-Bulls/master/splash.png" width="50%"><img src="https://raw.githubusercontent.com/arvindcheenu/Cows-And-Bulls/master/gameScreenshot.png" width="50%">
+</p>
+
+## License
+
+#### MIT License
+
+##### *Copyright (c) 2017 arvindcheenu*
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+<p align="center"> 
+<br/>
+<img style="padding-top:15px;" src="http://forthebadge.com/badges/built-with-swag.svg"/>
+  <span style="font-weight:bold;">&nbsp;&nbsp;by&nbsp;&nbsp;</span>
+<img src="https://avatars1.githubusercontent.com/u/13925213?s=460&v=4" width="45px" height="45px"/>
+<br/>
+</p>
+
