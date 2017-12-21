@@ -28,7 +28,7 @@ In this Application, the number to be guessed is set by the System. And based on
 
 ## Watch the Video Walkthrough
 
-[![Watch the video]
+[![Watch the video](https://img.youtube.com/vi/R5xwq8v289Y/0.jpg)](https://youtu.be/R5xwq8v289Y)
 
 ## ScreenShots
 
