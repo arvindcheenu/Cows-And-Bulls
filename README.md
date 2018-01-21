@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/arvindcheenu/Cows-And-Bulls/master/CowsAndBulls/src/CowsAndBulls/img/AppIcon.png" height="180">
 
 # Cows And Bulls
+<a class="github-button" href="https://github.com/arvindcheenu/Cows-And-Bulls/blob/master/CowsAndBulls.jar?raw=true" data-icon="octicon-cloud-download" data-size="large" aria-label="Download ntkme/github-buttons on GitHub">Download Game</a>
 
 A JavaFx 8 Application that simulates the pen and paper game "Bulls and Cows" as a Desktop JavaFX application.
 <p align="center"> 
@@ -68,4 +69,3 @@ SOFTWARE.
 <img src="https://avatars1.githubusercontent.com/u/13925213?s=460&v=4" width="45px" height="45px"/>
 <br/>
 </p>
-
